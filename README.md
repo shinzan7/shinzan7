@@ -67,6 +67,6 @@
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinzan)](https://solved.ac/shinzan)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Solved.ac commit 히트맵](http://mazandi.herokuapp.com/api?handle=ashha&theme=warm)](https://solved.ac/shinzan)
+[![Solved.ac commit 히트맵](http://mazandi.herokuapp.com/api?handle=shinzan&theme=warm)](https://solved.ac/shinzan)
 
 </div>
