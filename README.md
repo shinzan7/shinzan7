@@ -65,25 +65,8 @@
  <br>
 
 [![Solved.ac 
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ashha)](https://solved.ac/ashha)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinzan)](https://solved.ac/shinzan)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac commit 히트맵](http://mazandi.herokuapp.com/api?handle=ashha&theme=warm)](https://solved.ac/ashha)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=200&reversal=true&section=footer" />
-
-<!--
-**chohyean/chohyean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
